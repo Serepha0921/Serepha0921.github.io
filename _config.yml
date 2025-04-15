@@ -126,3 +126,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+collections:
+  codeforces:
+    output: true
+    permalink: /:collection/:path/
+  leetcode:
+    output: true
+    permalink: /:collection/:path/
