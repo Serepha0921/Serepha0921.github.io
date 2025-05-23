@@ -1,3 +1,13 @@
+---
+title: "Common Pitfalls When Creating a DLL and How to Handle Errors"
+date: 2025-05-22T11:46:30-07:00
+categories:
+  - TroubleShooting
+tags:
+  - DLL
+  - C++
+---
+
 When building a DLL, various issues often arise when trying to load it from a C# application. This post documents important precautions when building a DLL, as well as how to troubleshoot common DLL-related errors.
 
 ## Things to Watch Out for When Creating a DLL
